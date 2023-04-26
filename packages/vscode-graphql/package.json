@@ -172,6 +172,7 @@
     "vsce": "^2.13.0"
   },
   "dependencies": {
+    "@graphql-tools/code-file-loader": "^7.3.23",
     "graphql": "^16.4.0",
     "graphql-language-service-server": "^2.9.7",
     "vscode-languageclient": "8.0.2"
